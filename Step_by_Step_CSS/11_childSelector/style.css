@@ -1,0 +1,27 @@
+p {
+  background-color: rgb(127, 194, 250);
+}
+
+.p_description {
+ background-color: brown;
+}
+
+main > p {
+  background-color: blue;
+}
+
+.font_title {
+  font-family: 'Courier New', Courier, monospace;
+  color:darkmagenta;
+  font-size: 50px;
+}
+
+.font_important {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color:deeppink;
+  font-size: 100px;
+}
+
+.blue {
+  background-color: blue;
+}

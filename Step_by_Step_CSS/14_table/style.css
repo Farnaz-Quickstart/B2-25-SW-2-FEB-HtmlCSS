@@ -1,0 +1,23 @@
+p {
+  background-color: rgb(127, 194, 250);
+}
+
+span {
+  background-color: blueviolet;
+}
+
+td {
+  background-color: blueviolet;
+}
+
+tr {
+
+}
+
+.blue {
+  background-color: blue;
+}
+
+#myTable  {
+  font-size: 30px;
+}

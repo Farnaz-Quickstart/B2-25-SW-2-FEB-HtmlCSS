@@ -1,0 +1,7 @@
+p {
+  background-color: rgb(127, 194, 250);
+}
+
+main > div > p {
+  background-color: blue;
+}
